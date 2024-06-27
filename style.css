@@ -11,6 +11,11 @@ img {
     font-style: italic;
 }
 
+.body_margin{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
 h1,h2{
     font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
